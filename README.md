@@ -5,6 +5,8 @@ then in vs code
 npm install
 npm start
 
+download the project from the zipfile
+
 
 **Create collection(table) named "users"**
 
@@ -24,4 +26,3 @@ npm start
 	"email" : "tilanjanray@gmail.com"
 }
 
-Download the project from the zip file
