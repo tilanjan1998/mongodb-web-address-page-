@@ -24,3 +24,4 @@ npm start
 	"email" : "tilanjanray@gmail.com"
 }
 
+Download the project from the zip file
